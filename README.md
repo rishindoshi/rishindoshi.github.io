@@ -1,2 +1,1 @@
-# rishindoshi.github.io
-Me
+Just me.
